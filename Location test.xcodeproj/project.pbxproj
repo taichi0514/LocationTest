@@ -49,6 +49,7 @@
 		C014DCCE23EA674600C56200 /* Location testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Location testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C014DCD223EA674600C56200 /* Location_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location_testUITests.swift; sourceTree = "<group>"; };
 		C014DCD423EA674600C56200 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C014DCE023EA675D00C56200 /* Location-test.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Location-test.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		C014DCA423EA674400C56200 = {
 			isa = PBXGroup;
 			children = (
+				C014DCE023EA675D00C56200 /* Location-test.gpx */,
 				C014DCAF23EA674400C56200 /* Location test */,
 				C014DCC623EA674600C56200 /* Location testTests */,
 				C014DCD123EA674600C56200 /* Location testUITests */,
