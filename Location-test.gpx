@@ -11,18 +11,15 @@
         <time>2019-11-05T16:25:00Z</time>
     </wpt>
        <wpt lat="35.7100144" lon="139.810746">
-     <time>2019-11-05T16:26:05Z</time>
+     <time>2019-11-05T16:32:05Z</time>
    </wpt>
     <wpt lat="35.6762744" lon="139.7685437">
        <name>Home</name>
-       <time>2019-11-05T16:27:00Z</time>
-   </wpt>
-    <wpt lat="35.6762744" lon="139.7685437">
-       <name>Home</name>
-       <time>2019-11-05T16:27:00Z</time>
+       <time>2019-11-05T16:40:00Z</time>
    </wpt>
     <wpt lat="35.6762700" lon="139.7685437">
         <name>Home</name>
-        <time>2019-11-05T16:28:00Z</time>
+        <time>2019-11-05T16:42:00Z</time>
     </wpt>
 </gpx>
+
